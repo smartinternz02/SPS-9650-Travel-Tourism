@@ -12,5 +12,4 @@ Then I have created visualizations using the data.
 
 The demonstration video link is : https://youtu.be/XiyCB2kDPuU
 
-The link of the tableau dashboard is : https://public.tableau.com/profile/neelam.vinay.seshu#!/vizhome/Touristsfromforiegncountriestoindiaclassifiedbasedontheirage_16192706124320/Dashboard1
-
+The link of the tableau dashboard is : https://public.tableau.com/profile/neelam.vinay.seshu#!/vizhome/Touristsfromforiegncountriestoindiaclassifiedbasedontheirage_16192706124320/Story1
